@@ -1,2 +1,2 @@
-# Powershell---Out-Datatable
-Used to convert native powershell objects to .Net Datatable objects
+# Powershell a Colleciton of Functions
+A collection of functions I use as includes to my production powershell scripts
